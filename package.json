@@ -1,0 +1,28 @@
+{
+  "name": "node-noysi",
+  "version": "0.0.1",
+  "description": "Noysi client written in JavaScript packaged as a node module ",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavierRodriguez78/node-noysi.git"
+  },
+  "keywords": [
+    "node",
+    "noysi",
+    "javascript",
+    "npm"
+  ],
+  "author": "Javier Rodríguez Soler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JavierRodriguez78/node-noysi/issues"
+  },
+  "homepage": "https://github.com/JavierRodriguez78/node-noysi#readme"
+}
