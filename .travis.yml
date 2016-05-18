@@ -3,5 +3,4 @@ node_js:
   - "4.2.6"
 
 install:
-  - npm install mocha
-  - make install
+  - npm install
